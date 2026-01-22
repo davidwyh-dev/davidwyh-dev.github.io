@@ -1,0 +1,14 @@
+# Projects built with Cursor AI
+# Add your projects below - the site will automatically display them
+
+- name: "Simple Budget App"
+  description: "A simple budget app that allows you to track your income and expenses."
+  icon: "🚀"  
+  tags: 
+    - React
+    - TypeScript
+    - Tailwind CSS
+    - Supabase
+  github: "https://github.com/davidwyh-dev/my-first-budget-app"
+  live: "https://my-first-budget-app-9gbx.vercel.app/"
+  featured: false

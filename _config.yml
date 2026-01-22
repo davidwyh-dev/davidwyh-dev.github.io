@@ -1,0 +1,25 @@
+# Site settings
+title: David Wong
+description: Building intelligent apps with AI tools
+author: David Wong
+url: "" # Will be set by GitHub Pages
+baseurl: "" # Set to repo name if not using custom domain (e.g., "/repo-name")
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Exclude files from build
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+
+# Collections and defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
