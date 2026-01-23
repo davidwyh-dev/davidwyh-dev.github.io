@@ -2,8 +2,8 @@
 title: David Wong
 description: Building intelligent apps with AI tools
 author: David Wong
-url: "" # Will be set by GitHub Pages
-baseurl: "" # Set to repo name if not using custom domain (e.g., "/repo-name")
+url: "https://davidwyh-dev.github.io"
+baseurl: "" # Leave empty for user site (username.github.io)
 
 # Build settings
 markdown: kramdown

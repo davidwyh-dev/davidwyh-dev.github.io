@@ -20,13 +20,22 @@ A minimal, dark-mode portfolio website showcasing projects built with AI-assiste
 
 ### Deploy to GitHub Pages
 
-1. Push this repository to GitHub
-2. Go to **Settings** → **Pages**
-3. Under "Build and deployment", select **Deploy from a branch**
-4. Choose **main** branch and **/ (root)** folder
-5. Click **Save**
+1. Create a new repository on GitHub named **`davidwyh-dev.github.io`**
+   - This special naming gives you the root URL (no `/repo-name` suffix)
+2. Push this code to that repository:
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git remote add origin https://github.com/davidwyh-dev/davidwyh-dev.github.io.git
+   git push -u origin main
+   ```
+3. Go to **Settings** → **Pages**
+4. Under "Build and deployment", select **Deploy from a branch**
+5. Choose **main** branch and **/ (root)** folder
+6. Click **Save**
 
-Your site will be live at `https://[username].github.io/[repo-name]/`
+Your site will be live at `https://davidwyh-dev.github.io/`
 
 ## Customization
 
