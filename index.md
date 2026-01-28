@@ -143,7 +143,7 @@ layout: default
       <h3 class="skill-category-title">Fintech</h3>
       <div class="skill-list">
         <span class="skill-item">Card Issuing & Processing</span>
-        <span class="skill-item">Stablecoins/span>
+        <span class="skill-item">Stablecoins</span>
       </div>
     </div>
 
