@@ -1,6 +1,19 @@
 # Projects built with Cursor AI
 # Add your projects below - the site will automatically display them
 
+- name: "Portfolio Arcade"
+  description: "Level up your investments. A gamified portfolio tracker that lets you monitor holdings across multiple accounts and currencies, analyze annualized returns, and get rebalancing suggestions to optimize your portfolio allocation."
+  icon: "🎮"  
+  tags: 
+    - Next.js
+    - TypeScript
+    - Tailwind CSS
+    - Convex
+    - Vercel
+  github: "https://github.com/davidwyh-dev/portfolio-arcade"
+  live: "https://portfolio-arcade-eight.vercel.app/"
+  featured: true
+
 - name: "Simple Budget App"
   description: "A simple budget app that allows you to track your income, expenses and estimate taxes based on your zip code."
   icon: "💰"  
