@@ -26,3 +26,15 @@
   github: "https://github.com/davidwyh-dev/my-first-budget-app"
   live: "https://my-first-budget-app.vercel.app"
   featured: false
+
+- name: "Ledger Demo"
+  description: "A demo accounting ledger app exploring double-entry bookkeeping — track transactions across accounts and view running balances."
+  icon: "📒"
+  tags:
+    - Next.js
+    - TypeScript
+    - Tailwind CSS
+    - Vercel
+  github: "https://github.com/davidwyh-dev/ledger-demo"
+  live: "https://ledger-demo-vert.vercel.app/"
+  featured: false
