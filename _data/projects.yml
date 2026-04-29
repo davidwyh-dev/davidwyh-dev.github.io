@@ -1,4 +1,4 @@
-# Projects built with Cursor AI
+# Projects built with Claude Code
 # Add your projects below - the site will automatically display them
 
 - name: "Portfolio Arcade"
@@ -28,7 +28,7 @@
   featured: false
 
 - name: "Ledger Demo"
-  description: "A demo accounting ledger app exploring double-entry bookkeeping — track transactions across accounts and view running balances."
+  description: "A demo of a ledger system inspired by https://stripe.dev/blog/ledger-stripe-system-for-tracking-and-validating-money-movement. This demo uses invariants in Postgres to enforce double-entry accounting for all transactions."
   icon: "📒"
   tags:
     - Next.js
