@@ -8,7 +8,7 @@ layout: default
   <h2 class="hero-tagline">I am a product manager learning to build with AI</h2>
   <p class="hero-description">
     I'm a product manager exploring the intersection of fintech & AI-assisted development. 
-    I use tools like Cursor to rapidly prototype and ship prototype applications to explore new ideas and concepts.
+    I use tools like Claude Code to rapidly prototype and ship prototype applications to explore new ideas and concepts.
   </p>
   <a href="#projects" class="hero-cta">
     View My Work →
@@ -73,7 +73,7 @@ layout: default
         that solve real finance problems while exploring the cutting edge of what's possible with AI assistance.
       </p>
       <p>
-        I primarily use <span class="about-highlight">Cursor</span> as my AI coding companion, 
+        I primarily use <span class="about-highlight">Claude Code</span> as my AI coding companion, 
         which has transformed how I approach problem-solving and prototyping. From initial concept 
         to production-ready code, I leverage AI to move faster without sacrificing quality.
       </p>
@@ -122,7 +122,7 @@ layout: default
     <div class="skill-category">
       <h3 class="skill-category-title">AI & Tools</h3>
       <div class="skill-list">
-        <span class="skill-item">Cursor</span>
+        <span class="skill-item">Claude Code</span>
         <span class="skill-item">OpenAI API</span>
         <span class="skill-item">Claude API</span>
       </div>

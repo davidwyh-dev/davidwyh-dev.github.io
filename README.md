@@ -1,4 +1,4 @@
-# Personal Portfolio - Built with Cursor
+# Personal Portfolio - Built with Claude Code
 
 A minimal, dark-mode portfolio website showcasing projects built with AI-assisted development tools.
 
@@ -92,4 +92,4 @@ In `index.md`, find the contact section and replace:
 
 ---
 
-Built with [Cursor](https://cursor.sh) 🤖
+Built with [Claude Code](https://claude.com/claude-code) 🤖
