@@ -38,3 +38,17 @@
   github: "https://github.com/davidwyh-dev/ledger-demo"
   live: "https://ledger-demo-vert.vercel.app/"
   featured: false
+
+- name: "Post-Trade Demo"
+  description: "An append-only post-trade book of record demo for a macro hedge fund. Captures interest rate swaps, futures, treasuries, and FX positions, with a natural-language Trade CLI powered by Claude Haiku 4.5 that turns trader shorthand into structured trades."
+  icon: "📊"
+  tags:
+    - Next.js
+    - TypeScript
+    - Tailwind CSS
+    - PostgreSQL
+    - Claude API
+    - Vercel
+  github: "https://github.com/davidwyh-dev/post-trade-demo"
+  live: "https://post-trade-demo.vercel.app/"
+  featured: false
