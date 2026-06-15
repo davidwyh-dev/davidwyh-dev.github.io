@@ -1,6 +1,20 @@
 # Projects built with Claude Code
 # Add your projects below - the site will automatically display them
 
+- name: "FS Agents Demo"
+  description: "A demo web app showcasing a growing library of conversational agents for consumer financial services — personal banking, wealth management, and lending. The flagship onboarding agent, Ava, guides prospects through account opening and KYC: collecting CIP data via chat or document upload, verifying identity against government IDs, and screening against watchlists."
+  icon: "🤖"
+  tags:
+    - Next.js
+    - React
+    - TypeScript
+    - Tailwind CSS
+    - Anthropic SDK
+    - Vercel
+  github: "https://github.com/davidwyh-dev/fs-agents-demo"
+  live: "https://fs-agents-demo.vercel.app/"
+  featured: true
+
 - name: "Portfolio Arcade"
   description: "Level up your investments. A gamified portfolio tracker that lets you monitor holdings across multiple accounts and currencies, analyze annualized returns, and get rebalancing suggestions to optimize your portfolio allocation."
   icon: "🎮"  
